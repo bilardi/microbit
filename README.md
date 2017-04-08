@@ -11,7 +11,7 @@ If you have any problem, create an issue.
 Each script in this repository is a mini project that it works on [Microsoft MakeCode](https://pxt.microbit.org/).
 
 If you want to use it in your project, 
-- open the page [Microsoft MakeCode](https://pxt.microbit.org/)
+- open the page [Microsoft MakeCode](https://pxt.microbit.org/) online or your [pxt](https://github.com/Microsoft/pxt-microbit) stand alone
 - open your project or a new project
 - select javascript symbol
 - add the script
@@ -19,6 +19,8 @@ If you want to use it in your project,
 Alternately, you can use the link into the script that it is preceded by
 
     // test it by simulator
+
+Alternately, you can use the [command line](https://makecode.com/cli).
 
 ## License
 
