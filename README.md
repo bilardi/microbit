@@ -20,7 +20,7 @@ Alternately, you can use the link into the script that it is preceded by
 
     // test it by simulator
 
-Alternately, you can use the [command line](https://makecode.com/cli).
+Alternately, you can use the [command line](https://github.com/bbcmicrobit/micropython).
 
 ## License
 
