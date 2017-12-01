@@ -38,6 +38,7 @@ The connection between microbit and Scratch is in a flash. But it is important t
 
 Below are some Scratch online programs links
 - [microbit demo](https://scratch.mit.edu/projects/157159412/) by [vecsei](https://github.com/vecsei)
-- [labyrinth]() by [bilardi](https://github.com/bilardi)
+- [helicopter](https://scratch.mit.edu/projects/190300386/) by [bilardi](https://github.com/bilardi)
+- [helicopter empty](https://scratch.mit.edu/projects/190299223/) (only the sprites) by [bilardi](https://github.com/bilardi)
 
 You can download them and enjoy with them with your Scratch standalone version and your microbit!
